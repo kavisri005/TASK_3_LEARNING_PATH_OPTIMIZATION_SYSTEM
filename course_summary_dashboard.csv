@@ -1,0 +1,17 @@
+course_id,domain,course_level,enrollments,certification_rate,avg_engagement
+HarvardX/CB22x/2013_Spring,Humanities,Foundational,30002,1.28,13.404261715885607
+HarvardX/CS50x/2012,Computer Science,Foundational,169621,0.76,6.481587244503924
+HarvardX/ER22x/2013_Spring,Humanities,Foundational,57406,4.09,14.576993171445494
+HarvardX/PH207x/2012_Fall,Statistics & Public Health,Foundational,41592,4.43,20.72105669359492
+HarvardX/PH278x/2013_Spring,Public Health,Advanced,39602,1.8,12.722920559567697
+MITx/14.73x/2013_Spring,Economics,Foundational,27870,7.48,18.46962396842483
+MITx/2.01x/2013_Spring,Engineering,Advanced,5665,4.36,22.374804942630185
+MITx/3.091x/2012_Fall,Chemistry,Foundational,14215,4.45,17.63534435455505
+MITx/3.091x/2013_Spring,Chemistry,Foundational,6139,2.25,17.703942010099365
+MITx/6.002x/2012_Fall,Engineering,Advanced,40811,4.29,19.831332973953103
+MITx/6.002x/2013_Spring,Engineering,Advanced,22235,2.67,16.82902406116483
+MITx/6.00x/2012_Fall,Computer Science,Foundational,66731,3.71,21.403980608712594
+MITx/6.00x/2013_Spring,Computer Science,Foundational,57715,2.17,20.323411418175517
+MITx/7.00x/2013_Spring,Biology,Foundational,21009,3.92,20.435183016802323
+MITx/8.02x/2013_Spring,Physics,Advanced,31048,2.65,20.828770291162073
+MITx/8.MReV/2013_Summer,Physics,Foundational,9477,3.13,18.589538883612956
